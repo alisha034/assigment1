@@ -1,0 +1,7 @@
+homepageurl: https://as1.v.je/index.php
+adminuser: adminalisha1@admin.com
+adminusername:admin
+adminpass: 123456
+nonadminuser: user1@user.com
+nonadminusername:123456
+nonadminpassword: 12345
